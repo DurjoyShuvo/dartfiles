@@ -1,12 +1,5 @@
 import 'dart:io';
 
-// ============================================================
-// ASSIGNMENT 3 - All programs are included below.
-// Only the LAST program is active (uncommented).
-// All other programs are commented out for reference.
-// To run any other program, comment out the active main() at the
-// bottom and uncomment the one you want to run.
-// ============================================================
 
 // ================= QUESTION 4 =================
 

@@ -1,12 +1,3 @@
-import 'dart:io';
-
-// ============================================================
-// ASSIGNMENT 1 - All 20 programs are included below.
-// Only the LAST program (Question 20) is active (uncommented).
-// All other programs (1-19) are commented out for reference.
-// To run any other program, comment out the active main() at the
-// bottom and uncomment the one you want to run.
-// ============================================================
 
 /*
 // -------------------- 1. Print your name --------------------
